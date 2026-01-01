@@ -1,7 +1,7 @@
 # Navigating Through This Repo
 
 - The following sections in this readme file are notes I made as I learned C.
-- clab 1 and clab 2 are introductory labs, aimed at getting comfortable with C. They are followed by a Milestone 1 on implementation of a double linked list.
+- clab 1 to clab 3 are introductory labs, aimed at getting comfortable with C. They are followed by a Milestone 1 on implementation of a double linked list.
 - Within the "project" subfolder, plab 1 to plab 4 (together with Milestone 2 and 3) slowly built up the programming principles and functionality of the final project (lab_final).
 
 # Session 2:
