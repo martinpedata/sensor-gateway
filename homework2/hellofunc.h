@@ -1,1 +1,0 @@
-void myPrintHelloMake (char *who);
